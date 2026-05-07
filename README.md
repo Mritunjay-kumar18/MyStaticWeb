@@ -49,7 +49,7 @@ It was built to learn:
 
 ## 🌠 Homepage Preview
 
-<img width="100%" alt="project-preview" src=""D:\Downloadss\Project3M.jpeg"" />
+<img width="100%" alt="project-preview" src=""https://github.com/Mritunjay-kumar18/MyStaticWeb/blob/main/Project3M.jpeg"" />
 
 </div>
 
